@@ -1,3 +1,8 @@
 # hello-world
+
 just a rookie's repository
-# hi
+
+hello, I'm a rookie of code.
+
+=v= ovo 
+
